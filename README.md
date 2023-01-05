@@ -1,6 +1,6 @@
 # Bankist-App
 
-This project based on Javascript.
+This project based on Javascript. Check out : durga-tande.github.io/Bankist-App/
 
 Create,Read, Update, Delete Operations are allowed on this website.
 
